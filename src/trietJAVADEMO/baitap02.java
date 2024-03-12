@@ -13,5 +13,7 @@ public class baitap02 {
 		int chuvi = (unit1 + unit2) * 2;
 		int dientich = unit1 * unit2;
 		System.out.println("dien tich: " + dientich + "chu vi: " + chuvi);
+
+		scaner.close();
 	}
 }
